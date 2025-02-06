@@ -1,6 +1,6 @@
 📌 Overview
 
-The Indian Startup Trends Analysis dashboard is a powerful data-driven tool designed to provide key insights into the thriving startup ecosystem in India. By leveraging Azure and Azure Data Factory (ADF) pipelines, we extract, transform, and visualize data in Power BI, making it easier to identify trends, investments, and growth opportunities in the startup landscape.
+The Indian Startup Trends Analysis dashboard is a powerful data-driven tool designed to provide key insights into the thriving startup ecosystem in India. By leveraging Azure and Azure Data Factory (ADF) pipelines, extract, transform, and visualize data in Power BI, making it easier to identify trends, investments and growth opportunities in the startup landscape.
 
 📊 Key Metrics & Insights
 
